@@ -1,0 +1,6 @@
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

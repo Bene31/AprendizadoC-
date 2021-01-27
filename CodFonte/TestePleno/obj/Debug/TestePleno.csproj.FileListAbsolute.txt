@@ -1,0 +1,7 @@
+C:\Users\terra\Desktop\c#\CodFonte\TestePleno\obj\Debug\TestePleno.csproj.CoreCompileInputs.cache
+C:\Users\terra\Desktop\c#\CodFonte\TestePleno\bin\Debug\TestePleno.exe.config
+C:\Users\terra\Desktop\c#\CodFonte\TestePleno\bin\Debug\TestePleno.exe
+C:\Users\terra\Desktop\c#\CodFonte\TestePleno\bin\Debug\TestePleno.pdb
+C:\Users\terra\Desktop\c#\CodFonte\TestePleno\obj\Debug\TestePleno.exe
+C:\Users\terra\Desktop\c#\CodFonte\TestePleno\obj\Debug\TestePleno.pdb
+C:\Users\terra\Desktop\c#\CodFonte\TestePleno\obj\Debug\TestePleno.csprojAssemblyReference.cache

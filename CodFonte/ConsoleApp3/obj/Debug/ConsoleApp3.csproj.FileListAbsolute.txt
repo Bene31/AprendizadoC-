@@ -1,0 +1,7 @@
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\terra\Desktop\c#\CodFonte\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
